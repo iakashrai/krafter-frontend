@@ -1,0 +1,18 @@
+.landingpage-intro-container{
+    text-align: center;
+}
+
+.landingpage-intro-container h2{
+    @apply
+        text-xl
+        md:text-3xl 
+        font-semibold
+    ;
+}
+
+.landingpage-intro-container h1{
+    @apply 
+        md:text-6xl
+        text-indigo-600
+    ;
+}
